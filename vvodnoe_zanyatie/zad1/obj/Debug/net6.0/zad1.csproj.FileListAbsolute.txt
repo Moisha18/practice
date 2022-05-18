@@ -13,3 +13,18 @@ C:\Users\Владислав\source\repos\zad1\zad1\obj\Debug\net6.0\refint\zad1.
 C:\Users\Владислав\source\repos\zad1\zad1\obj\Debug\net6.0\zad1.pdb
 C:\Users\Владислав\source\repos\zad1\zad1\obj\Debug\net6.0\zad1.genruntimeconfig.cache
 C:\Users\Владислав\source\repos\zad1\zad1\obj\Debug\net6.0\ref\zad1.dll
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\bin\Debug\net6.0\zad1.exe
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\bin\Debug\net6.0\zad1.deps.json
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\bin\Debug\net6.0\zad1.runtimeconfig.json
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\bin\Debug\net6.0\zad1.dll
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\bin\Debug\net6.0\zad1.pdb
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.csproj.AssemblyReference.cache
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.AssemblyInfoInputs.cache
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.AssemblyInfo.cs
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.csproj.CoreCompileInputs.cache
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.dll
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\refint\zad1.dll
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.pdb
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\zad1.genruntimeconfig.cache
+F:\практика кпияп\practice\vvodnoe_zanyatie\zad1\obj\Debug\net6.0\ref\zad1.dll

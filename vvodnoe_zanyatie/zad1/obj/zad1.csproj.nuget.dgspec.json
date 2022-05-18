@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\vvodnoye zanyatiye\\zad1\\zad1\\zad1.csproj": {}
+    "F:\\практика кпияп\\practice\\vvodnoe_zanyatie\\zad1\\zad1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\vvodnoye zanyatiye\\zad1\\zad1\\zad1.csproj": {
+    "F:\\практика кпияп\\practice\\vvodnoe_zanyatie\\zad1\\zad1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\vvodnoye zanyatiye\\zad1\\zad1\\zad1.csproj",
+        "projectUniqueName": "F:\\практика кпияп\\practice\\vvodnoe_zanyatie\\zad1\\zad1.csproj",
         "projectName": "zad1",
-        "projectPath": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\vvodnoye zanyatiye\\zad1\\zad1\\zad1.csproj",
-        "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\vvodnoye zanyatiye\\zad1\\zad1\\obj\\",
+        "projectPath": "F:\\практика кпияп\\practice\\vvodnoe_zanyatie\\zad1\\zad1.csproj",
+        "packagesPath": "C:\\Users\\Маша\\.nuget\\packages\\",
+        "outputPath": "F:\\практика кпияп\\practice\\vvodnoe_zanyatie\\zad1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Маша\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
