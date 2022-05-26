@@ -1,0 +1,30 @@
+C:\Users\Владислав\source\repos\zad2\zad7\bin\Debug\net6.0\zad7.exe
+C:\Users\Владислав\source\repos\zad2\zad7\bin\Debug\net6.0\zad7.deps.json
+C:\Users\Владислав\source\repos\zad2\zad7\bin\Debug\net6.0\zad7.runtimeconfig.json
+C:\Users\Владислав\source\repos\zad2\zad7\bin\Debug\net6.0\zad7.dll
+C:\Users\Владислав\source\repos\zad2\zad7\bin\Debug\net6.0\zad7.pdb
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.csproj.AssemblyReference.cache
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.AssemblyInfoInputs.cache
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.AssemblyInfo.cs
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.dll
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\refint\zad7.dll
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.pdb
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\zad7.genruntimeconfig.cache
+C:\Users\Владислав\source\repos\zad2\zad7\obj\Debug\net6.0\ref\zad7.dll
+F:\практика кпияп\practice\1\zad7\bin\Debug\net6.0\zad7.exe
+F:\практика кпияп\practice\1\zad7\bin\Debug\net6.0\zad7.deps.json
+F:\практика кпияп\practice\1\zad7\bin\Debug\net6.0\zad7.runtimeconfig.json
+F:\практика кпияп\practice\1\zad7\bin\Debug\net6.0\zad7.dll
+F:\практика кпияп\practice\1\zad7\bin\Debug\net6.0\zad7.pdb
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.csproj.AssemblyReference.cache
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.GeneratedMSBuildEditorConfig.editorconfig
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.AssemblyInfoInputs.cache
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.AssemblyInfo.cs
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.csproj.CoreCompileInputs.cache
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.dll
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\refint\zad7.dll
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.pdb
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\zad7.genruntimeconfig.cache
+F:\практика кпияп\practice\1\zad7\obj\Debug\net6.0\ref\zad7.dll
