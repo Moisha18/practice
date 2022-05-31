@@ -1,0 +1,15 @@
+F:\практика кпияп\practice\3\zadd3\bin\Debug\net6.0\zadd3.exe
+F:\практика кпияп\practice\3\zadd3\bin\Debug\net6.0\zadd3.deps.json
+F:\практика кпияп\practice\3\zadd3\bin\Debug\net6.0\zadd3.runtimeconfig.json
+F:\практика кпияп\practice\3\zadd3\bin\Debug\net6.0\zadd3.dll
+F:\практика кпияп\practice\3\zadd3\bin\Debug\net6.0\zadd3.pdb
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.csproj.AssemblyReference.cache
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.GeneratedMSBuildEditorConfig.editorconfig
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.AssemblyInfoInputs.cache
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.AssemblyInfo.cs
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.csproj.CoreCompileInputs.cache
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.dll
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\refint\zadd3.dll
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.pdb
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\zadd3.genruntimeconfig.cache
+F:\практика кпияп\practice\3\zadd3\obj\Debug\net6.0\ref\zadd3.dll
