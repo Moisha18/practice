@@ -1,0 +1,15 @@
+F:\практика кпияп\practice\5\zadd5\bin\Debug\net6.0\zadd5.exe
+F:\практика кпияп\practice\5\zadd5\bin\Debug\net6.0\zadd5.deps.json
+F:\практика кпияп\practice\5\zadd5\bin\Debug\net6.0\zadd5.runtimeconfig.json
+F:\практика кпияп\practice\5\zadd5\bin\Debug\net6.0\zadd5.dll
+F:\практика кпияп\practice\5\zadd5\bin\Debug\net6.0\zadd5.pdb
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.csproj.AssemblyReference.cache
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.GeneratedMSBuildEditorConfig.editorconfig
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.AssemblyInfoInputs.cache
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.AssemblyInfo.cs
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.csproj.CoreCompileInputs.cache
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.dll
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\refint\zadd5.dll
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.pdb
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\zadd5.genruntimeconfig.cache
+F:\практика кпияп\practice\5\zadd5\obj\Debug\net6.0\ref\zadd5.dll
