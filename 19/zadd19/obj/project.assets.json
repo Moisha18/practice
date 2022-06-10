@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
+    "C:\\Users\\Маша\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\19\\zadd19\\zadd19\\zadd19.csproj",
+      "projectUniqueName": "F:\\практика кпияп\\practice\\19\\zadd19\\zadd19.csproj",
       "projectName": "zadd19",
-      "projectPath": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\19\\zadd19\\zadd19\\zadd19.csproj",
-      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владислав\\Desktop\\uchebnaya_praktika\\19\\zadd19\\zadd19\\obj\\",
+      "projectPath": "F:\\практика кпияп\\practice\\19\\zadd19\\zadd19.csproj",
+      "packagesPath": "C:\\Users\\Маша\\.nuget\\packages\\",
+      "outputPath": "F:\\практика кпияп\\practice\\19\\zadd19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Маша\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
