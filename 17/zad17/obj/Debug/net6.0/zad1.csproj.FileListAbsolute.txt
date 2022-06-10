@@ -1,0 +1,5 @@
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\zad17\obj\Debug\net6.0\zad1.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\zad17\obj\Debug\net6.0\zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\zad17\obj\Debug\net6.0\zad1.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\zad17\obj\Debug\net6.0\zad1.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\zad17\obj\Debug\net6.0\zad1.csproj.CoreCompileInputs.cache

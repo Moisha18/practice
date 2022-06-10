@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "zad1/1.0.0": {
+        "dependencies": {
+          "Figure": "1.0.0"
+        },
+        "runtime": {
+          "zad1.dll": {}
+        }
+      },
+      "Figure/1.0.0": {
+        "runtime": {
+          "Figure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zad1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Figure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

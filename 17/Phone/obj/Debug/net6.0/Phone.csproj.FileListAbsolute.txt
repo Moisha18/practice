@@ -1,0 +1,12 @@
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\bin\Debug\net6.0\Phone.deps.json
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\bin\Debug\net6.0\Phone.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\bin\Debug\net6.0\Phone.pdb
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\refint\Phone.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\Phone.pdb
+C:\Users\Владислав\Desktop\uchebnaya_praktika\17\zad17\Phone\obj\Debug\net6.0\ref\Phone.dll

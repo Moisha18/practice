@@ -1,0 +1,15 @@
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\bin\Debug\net6.0\zadd19.exe
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\bin\Debug\net6.0\zadd19.deps.json
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\bin\Debug\net6.0\zadd19.runtimeconfig.json
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\bin\Debug\net6.0\zadd19.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\bin\Debug\net6.0\zadd19.pdb
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\refint\zadd19.dll
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.pdb
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\zadd19.genruntimeconfig.cache
+C:\Users\Владислав\Desktop\uchebnaya_praktika\19\zadd19\zadd19\obj\Debug\net6.0\ref\zadd19.dll
